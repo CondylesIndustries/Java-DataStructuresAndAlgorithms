@@ -1,3 +1,5 @@
+// This code is not a solution to any particular homework assignment at the University of Virginia
+
 import java.util.*;
 
 public class BinaryHeap {
